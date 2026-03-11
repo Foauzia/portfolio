@@ -77,9 +77,6 @@ export function Footer() {
           <p className="text-slate-500 text-sm font-mono">
             &copy; {currentYear} Fozia Abako Dengo. All rights reserved.
           </p>
-          <div className="flex items-center space-x-6 text-[10px] text-slate-400 uppercase tracking-[0.2em] font-bold">
-            <span>Crafted with Purpose</span>
-          </div>
         </div>
       </div>
     </footer>

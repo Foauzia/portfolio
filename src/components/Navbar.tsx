@@ -39,8 +39,8 @@ export function Navbar() {
           <div className="bg-blue-600 p-1.5 rounded-lg group-hover:rotate-12 transition-transform">
             <ShieldCheck className="text-white w-6 h-6" />
           </div>
-          <span className="text-xl font-black tracking-tighter bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-blue-400 dark:to-indigo-400 uppercase">
-            FOZIA
+          <span className="text-xl font-black tracking-tighter bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-indigo-600 dark:from-blue-400 dark:to-indigo-400 uppercase whitespace-nowrap">
+            &lt;F.A/&gt;
           </span>
         </a>
 
